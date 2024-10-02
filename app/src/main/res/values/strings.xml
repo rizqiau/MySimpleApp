@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MySimpleApp</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="description">About</string>
+    <string name="about">About</string>
+    <string name="about_name">Mochammad Rizqi Aullia</string>
+    <string name="about_email">mochammadrizqiaullia@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Adele</item>
+        <item>Alesana</item>
+        <item>Back Number</item>
+        <item>Bon Jovi</item>
+        <item>Ed Sheeran</item>
+        <item>Efek Rumah Kaca</item>
+        <item>Green Day</item>
+        <item>Kodaline</item>
+        <item>My Chemical Romance</item>
+        <item>Oasis</item>
+        <item>Paramore</item>
+        <item>Peterpan</item>
+        <item>Secondhand Serenade</item>
+        <item>Sheila On 7</item>
+        <item>The Sigit</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Adele Laurie Blue Adkins MBE (born 5 May 1988) known mononymously as Adele, is an English singer-songwriter. She is known for her mezzo-soprano vocals and sentimental songwriting. Her accolades include 16 Grammy Awards, 12 Brit Awards (including three for British Album of the Year), an Academy Award, a Primetime Emmy Award, and a Golden Globe Award.</item>
+        <item>Alesana is an American post-hardcore band from Raleigh, North Carolina. The group was founded by Shawn Milke, Dennis Lee, Patrick Thompson, Steven Tomany and Daniel Magnuson during the fall of 2004, and is currently signed to Revival Recordings and Artery Recordings. In total, Alesana has released five full-length studio albums and three EPs.</item>
+        <item>Back Number (バックナンバー, Bakku Nambā) is a Japanese rock power trio formed in 2004. The group consists of Iyori Shimizu (lead vocals and guitar), Kazuya Kojima (bass guitar and backing vocals), and Hisashi Kurihara (drums). The group signed to independent record label Idolsmith Recordings in 2009 and released their debut EP Nogashita Sakana (逃した魚, Fish Set Free) (2009) and studio album Ato no Matsuri (あとのまつり, Too Late) (2010). They signed to Universal Sigma in 2011.</item>
+        <item>Bon Jovi is an American rock band formed in Sayreville, New Jersey in 1983. The band consists of singer Jon Bon Jovi, keyboardist David Bryan, drummer Tico Torres, guitarists John Shanks and Phil X, percussionist Everett Bradley, and bassist Hugh McDonald. Original bassist Alec John Such left the band in 1994, and longtime guitarist and co-songwriter Richie Sambora left in 2013. The band has been credited with "bridging the gap between heavy metal music, rock and pop with style and ease"</item>
+        <item>Edward Christopher Sheeran MBE (born 17 February 1991) is an English singer-songwriter. Born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk, he began writing songs around the age of eleven. In early 2011, Sheeran independently released the extended play No. 5 Collaborations Project. He signed with Asylum Records the same year.</item>
+        <item>Efek Rumah Kaca is an Indonesian indie rock band, formed in 2001. The band consists of Cholil Mahmud (lead vocal, guitar), Adrian Yunan Faisal (back vocals, bass, guitar), Airil "Poppie" Nur Abadiansyah (back vocals, bass) dan Akbar Bagus Sudibyo (drum, back vocals). They are known for their satirical and thought-provoking lyrics—usually concerning politics or everyday society. They have released three albums, Efek Rumah Kaca (2007), Kamar Gelap (2008), and Sinestesia (2015).</item>
+        <item>Green Day is an American rock band formed in Rodeo, California, in 1987 by lead vocalist and guitarist Billie Joe Armstrong and bassist and backing vocalist Mike Dirnt, with drummer Tré Cool joining in 1990. In 1994, their major-label debut Dookie, released through Reprise Records, became a breakout success and eventually shipped over 20 million copies in the U.S. Alongside fellow California punk bands Bad Religion, the Offspring, Rancid, NOFX, Pennywise and Social Distortion, Green Day is credited with popularizing mainstream interest in punk rock in the U.S.</item>
+        <item>Kodaline are an Irish rock band. Originally known as 21 Demands, the band adopted their current name in 2012 to coincide with the changing of their music.[2] The group comprises Steve Garrigan, Mark Prendergast, Vincent May and Jason Boland.</item>
+        <item>My Chemical Romance (commonly abbreviated to MCR or My Chem) is an American rock band from New Jersey. The bands current lineup consists of lead vocalist Gerard Way, lead guitarist Ray Toro, rhythm guitarist Frank Iero, and bassist Mikey Way. They are considered one of the most influential rock groups of the 2000s and a major act in the pop-punk and emo genres, despite the band rejecting the latter label.</item>
+        <item>Oasis are an English rock band formed in Manchester in 1991. The group initially consisted of Liam Gallagher (lead vocals), Paul \"Bonehead\" Arthurs (guitar), Paul \"Guigsy\" McGuigan (bass guitar) and Tony McCarroll (drums), with Liam asking his older brother Noel Gallagher (lead guitar, vocals) to join as a fifth member a few months later to finalise their formation. Noel became the de facto leader of the group and took over the songwriting duties for the band\'s first four albums. They are characterised as one of the defining and most globally successful groups of the Britpop genre.</item>
+        <item>Paramore is an American rock band formed in Franklin, Tennessee, in 2004. Since 2017, the band\'s lineup includes lead vocalist Hayley Williams, lead guitarist Taylor York, and drummer Zac Farro. Williams and Farro are founding members of the group, while York, a high school friend of the original lineup, joined in 2007. Williams is the only member to appear on all six of Paramore\'s studio albums.</item>
+        <item>Noah (formerly known as Peterpan; and later stylized as NOAH) are an Indonesian rock band formed as Peterpan in Bandung, West Java in 2000, which consisted of six members: Ariel, Andika, Indra, Lukman, Reza and Uki, with Andika as the leader. Most of their lyrics are written by Ariel, who is the band\'s lead vocalist. The band currently consists of three members: Ariel, Lukman, and David, and is currently on hiatus since New Year 2024.</item>
+        <item>Secondhand Serenade is the one-man band of American rock vocalist, pianist and guitarist John Veselyn. Vesely has released four studio albums to date under the name Secondhand Serenade. His debut album used multitrack recording to create the sound of a band using technology, while his second album took a different path, using a proper band and synthesizers.</item>
+        <item>Sheila on 7 is an alternative rock band from Yogyakarta, Indonesia. They have changed their lineup several times since their formation on 6 May 1996. Their first lineup consisted of Akhdiyat Duta Modjo (also known as Duta, vocals), Saktia \"Sakti\" Ari Seno (guitar), Eross Candra (guitar), Adam Muhammad Subarkah (bass), and Anton Widiastanto (drums). Anton left the group in 2004, while Sakti left in 2006, leaving their current lineup as it is, but with Brian Kresna Putro replacing Anton in the drums until his departure in 2022.</item>
+        <item>The S.I.G.I.T. (The Super Insurgent Group of Intemperance Talent, often stylized as The SIGIT) is an Indonesian rock band based in Bandung, Indonesia. The band consists of Rektivianto \"Rekti\" Yoewono (vocals, guitar), Farri Icksan Wibisana (guitar), Aghan Sudrajat (bass), Absar Lebeh (guitar), and Donar \"Acil\" Armando Ekana (drums). They have three studio albums and two EPs: Visible Idea of Perfection (2007) and Detourn (2014); The S.I.G.I.T. (2004) and the two-parted Hertz Dyslexia that was released separately in 2009 and 2011.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/adele</item>
+        <item>@drawable/alesana</item>
+        <item>@drawable/backnumber</item>
+        <item>@drawable/bonjovi</item>
+        <item>@drawable/edsheeran</item>
+        <item>@drawable/erk</item>
+        <item>@drawable/greenday</item>
+        <item>@drawable/kodaline</item>
+        <item>@drawable/mcr</item>
+        <item>@drawable/oasis</item>
+        <item>@drawable/paramore</item>
+        <item>@drawable/peterpan</item>
+        <item>@drawable/secondhand</item>
+        <item>@drawable/sheila</item>
+        <item>@drawable/thesigit</item>
+    </integer-array>
+
+    <style name="RoundedImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- Makes it fully circular -->
+    </style>
+</resources>
